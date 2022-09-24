@@ -1,0 +1,24 @@
+A
+B
+C
+D
+E
+F
+G
+H
+#
+G E 100
+G C 125
+G A 12
+E G 80
+E C 20
+E D 30
+E H 60
+C D 7
+A B 115
+B D 1
+D F 27
+D H 37
+F D 27
+F H 20
+#
